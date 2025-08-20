@@ -1,6 +1,6 @@
-# strings_to_pig_latin
+# Strings To Pig Latin
 
-This repo contains code for converting an input string consisting only of letters into pig latin.
+This repo contains code for converting an input string consisting only of letters into Pig Latin.
 
 The project was written in Rust.
 
@@ -10,10 +10,10 @@ The project was written in Rust.
     $ cargo run
         Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
          Running `target\debug\strings_to_pig_latin.exe`
-    Convert strings to pig latin!
+    Convert strings to Pig Latin!
     Please enter your string (in lowercase):
     first
-    Pig latin: irst-fay
+    Pig Latin: irst-fay
 
 ## Requirements
 

@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Convert strings to pig latin!");
+    println!("Convert strings to Pig Latin!");
 
     'main: loop {
         println!("Please enter your string (in lowercase): ");
@@ -53,7 +53,7 @@ fn main() {
             format!("{modified_str}-{first_consonant}ay")
         };
 
-        println!("Pig latin: {output_str}");
+        println!("Pig Latin: {output_str}");
         break;
     }
 }
