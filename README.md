@@ -1,4 +1,4 @@
-# Strings To Pig Latin
+# Strings to Pig Latin
 
 This repo contains code for converting an input string consisting only of letters into Pig Latin.
 
